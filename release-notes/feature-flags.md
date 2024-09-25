@@ -89,7 +89,7 @@ Harness deploys changes to Harness SaaS clusters on a progressive basis. This me
  - Added .NET 8.0 TFM. (FFM-12057)
  - Upgraded `System.IdentityModel.Tokens.Jwt` for .NET 7.0 and 8.0
  TFMs. 
- - Remove unused `Disruptor` library.
+ - Remove unused `Disruptor` library. 
 
 ## August 2024
 
