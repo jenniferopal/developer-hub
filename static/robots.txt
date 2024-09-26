@@ -14,4 +14,3 @@ Sitemap: https://developer.harness.io/sitemap.xml
 # User-Agent: *
 # Disallow: /docs/{slug}/
 # Disallow: /docs/{slug}/{file-name}
-# Disallow: /docs/database-devops/
